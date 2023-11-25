@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Hasan</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/alihjmm" target="blank"><img src="https://img.shields.io/twitter/follow/alihjmm?logo=twitter&style=for-the-badge" alt="alihjmm" /></a> </p>
 
 - 🔭 I’m currently working on **OmniFood Project**
 
