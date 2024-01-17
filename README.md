@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **OmniFood Project**
+- 🔭 I’m currently working on **JavaScript Project**
 
-- 🌱 I’m currently learning **JavaScript, React, Bootstrap, and .NET Framework**
+- 🌱 I’m currently learning **JavaScript, React, Tailwind**
 
 - 📫 How to reach me **AliHasanJMM@gmail.com**
 
