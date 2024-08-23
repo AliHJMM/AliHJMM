@@ -2,10 +2,6 @@
 
 ###
 
-<p align="center">My name is Ali and I'm Full-Stack Developer, from Bahrain</p>
-
-###
-
 <h2 align="center">About me</h2>
 
 ###
