@@ -1,7 +1,5 @@
 <h1 align="center">Salam👋</h1>
 
-###
-
 <h2 align="center">About me</h2>
 
 ###
