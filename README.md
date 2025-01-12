@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>I am currently pursuing a <b>Bachelor of Information Systems</b> at the University of Bahrain 🎓 and enhancing my expertise in <b>Full Stack Development</b> through Reboot01 💻. With a strong focus on developing scalable, high-quality applications, I am dedicated to mastering both front-end and back-end technologies. My passion lies in exploring innovative tools, contributing to impactful projects, and continuously refining my technical skills.</h3>
+I am currently pursuing a <b>Bachelor of Information Systems</b> at the University of Bahrain 🎓 and enhancing my expertise in <b>Full Stack Development</b> through Reboot01 💻. With a strong focus on developing scalable, high-quality applications, I am dedicated to mastering both front-end and back-end technologies. My passion lies in exploring innovative tools, contributing to impactful projects, and continuously refining my technical skills.
 
 
 ## 🌐 Socials:
